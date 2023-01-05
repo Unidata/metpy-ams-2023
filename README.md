@@ -24,7 +24,7 @@ Please have this environment prepared ahead of time if you'll be using your own 
 > 1. [Install Miniconda](https://docs.conda.io/en/latest/miniconda.html#installing) if you don't already have command-line access to `conda`.
 > 1. Get a copy of this code!
 > You have a few options from the green button above,  
-> a. `git clone https://github.com/Unidata/metpy-workshop.git` from your command line, within some directory on your computer.
+> a. `git clone https://github.com/Unidata/metpy-ams-2023.git` from your command line, within some directory on your computer.
 > [Install git](https://github.com/git-guides/install-git) if necessary.
 > If you're comfortable with `git`, we recommend this approach as it will let you keep this code regularly up to date.  
 > b. [`Open with GitHub Desktop`](https://desktop.github.com/) if you have and prefer this graphically-focused software.  
