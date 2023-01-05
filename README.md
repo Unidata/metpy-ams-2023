@@ -36,9 +36,6 @@ Please have this environment prepared ahead of time if you'll be using your own 
 > 1. Launch Jupyter and get to coding with `jupyter lab`.
 > Don't forget to activate your environment first!
 
-#### :warning: Important!
-It is often important to update your environment and code you're working with **frequently**, and that is true for our workshop! Please make sure to re-download any updated code and confirm that your environment works **before the start of the course**. To support this, our facilitators will be available in the half-hour before the workshop to have room for doing this together.
-
 ### :cloud: Using [Science Gateway](http://scigw.unidata.ucar.edu/)
 If you've registered for this workshop, you can do all of this work on our very own _gateway_ to the NSF Jetstream Cloud!
 For this course, temporary logins will be generated and handed out to registrants in the classroom.
@@ -50,6 +47,12 @@ From here you will discover a Jupyter Lab interface pre-populated with these mat
 
 This requires only a web browser and a stable internet connection.
 Get to coding!
+
+#### :warning: Important!
+It is often important to update your environment and code you're working with **frequently**, and that is true for our workshop!
+Please make sure to re-download any updated code and confirm that your environment works **before the start of the course**.
+To support this, our facilitators will be available in the half-hour before the workshop to have room for doing this together.
+Whether you set up a local Python environment or participate in the cloud, please come to the classroom during this time window for a smooth start to the course!
 
 ## :speech_balloon: Acknowledgements
 Launching this JupyterHub server is the result of a collaboration between several research and academic institutions and their staff. For Jetstream2 and JupyterHub expertise, we thank Andrea Zonca (San Diego Supercomputing Center), Jeremy Fischer, Mike Lowe (Indiana University), the NSF Jetstream2 (doi:10.1145/3437359.3465565) team.
