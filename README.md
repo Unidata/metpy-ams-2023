@@ -28,7 +28,7 @@ Please have this environment prepared ahead of time if you'll be using your own 
 > [Install git](https://github.com/git-guides/install-git) if necessary.
 > If you're comfortable with `git`, we recommend this approach as it will let you keep this code regularly up to date.  
 > b. [`Open with GitHub Desktop`](https://desktop.github.com/) if you have and prefer this graphically-focused software.  
-> c. [`Download ZIP`]((https://github.com/unidata/metpy-ams-2023/archive/refs/heads/main.zip)) if you prefer to get a single snapshot of the code right here and now.  
+> c. [`Download ZIP`](https://github.com/unidata/metpy-ams-2023/archive/refs/heads/main.zip) if you prefer to get a single snapshot of the code right here and now.  
 > 1. Wherever you have this code saved, set up your Python environment with `conda env create -f environment.yml` from your command line.  
 > 1. Give this some time.
 > Once it's done, activate this new environment with `conda activate metpy-ams-2023`.
