@@ -36,7 +36,7 @@ Please have this environment prepared ahead of time if you'll be using your own 
 > 1. Launch Jupyter and get to coding with `jupyter lab`.
 > Don't forget to activate your environment first!
 
-### :cloud: Using [Science Gateway](http://scigw.unidata.ucar.edu/)
+### :cloud: Using [Science Gateway](https://science-gateway.unidata.ucar.edu/)
 If you've registered for this workshop, you can do all of this work on our very own _gateway_ to the NSF Jetstream Cloud!
 For this course, temporary logins will be generated and handed out to registrants in the classroom.
 Keep your login handout with you!
