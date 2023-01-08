@@ -1,4 +1,9 @@
 <div align="center">
+
+<a href="https://www.ametsoc.org/index.cfm/ams/">
+<img src ="https://www.ametsoc.org/themes/ametsoc-new/images/AMSlogoFull-web.png" width=65% alt="American Meteorological Society logo">
+</a>
+
 <img src="logos/unidata_logo_horizontal.png" width=50% alt="Unidata logo">
 
 # ![](logos/metpy-32x32.png "MetPy logo") MetPy for your Data: Analyzing Meteorological Observations in Python
